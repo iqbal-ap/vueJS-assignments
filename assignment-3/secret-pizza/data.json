@@ -1,0 +1,111 @@
+{
+  "menus": [
+    {
+      "title": "Arguluta and Buratta Pizza",
+      "imgSrc": "src/assets/media/menu-pizza-arguluta-and-buratta-unsplash.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales pellentesque nulla nec placerat.",
+      "price": 20,
+      "id": "1"
+    },
+    {
+      "title": "Beef and Paprika Pizza",
+      "imgSrc": "src/assets/media/menu-pizza-beef-and-paprika-unsplash.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales pellentesque nulla nec placerat.",
+      "price": 30,
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "title": "Pepperoni Pizza",
+      "imgSrc": "src/assets/media/menu-pizza-pepperoni-unsplash.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales pellentesque nulla nec placerat.",
+      "price": 10
+    },
+    {
+      "id": "4",
+      "title": "Portobello Pizza",
+      "imgSrc": "src/assets/media/menu-pizza-portobello-unsplash.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales pellentesque nulla nec placerat.",
+      "price": 10
+    },
+    {
+      "id": "7a08",
+      "title": "test menu",
+      "imgSrc": "https://tooabstractive.com/images/jonathan-kemper-n8ayh8r2rwq-unsplash.webp",
+      "description": "aaa",
+      "price": 12
+    },
+    {
+      "id": "800b",
+      "title": "test menu 2",
+      "imgSrc": "src/assets/media/menu-pizza-tomato-unsplash.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales pellentesque nulla nec placerat.",
+      "price": 30
+    }
+  ],
+  "bookings": [
+    {
+      "id": "c15e",
+      "name": "a",
+      "email": "a@mail.com",
+      "bookingDate": "2024-03-04",
+      "bookingTime": "10:01",
+      "numOfPeople": 1,
+      "requests": ""
+    },
+    {
+      "id": "1b69",
+      "name": "test",
+      "email": "test@mail.com",
+      "bookingDate": "2024-03-04",
+      "bookingTime": "10:06",
+      "numOfPeople": 2,
+      "requests": "nothing"
+    },
+    {
+      "id": "a666",
+      "name": "test2",
+      "email": "test2@mail.com",
+      "bookingDate": "2024-03-04",
+      "bookingTime": "10:11",
+      "numOfPeople": 1,
+      "requests": "oleoleole"
+    },
+    {
+      "id": "0663",
+      "name": "test3",
+      "email": "test3@mail.com",
+      "bookingDate": "2024-03-04",
+      "bookingTime": "10:12",
+      "numOfPeople": 1,
+      "requests": "qeqwe"
+    },
+    {
+      "id": "af28",
+      "name": "test4",
+      "email": "test4@mail.com",
+      "bookingDate": "2024-03-04",
+      "bookingTime": "10:13",
+      "numOfPeople": 1,
+      "requests": "asdadas"
+    },
+    {
+      "id": "7e13",
+      "name": "test book",
+      "email": "test.book@mail.com",
+      "bookingDate": "2024-03-15",
+      "bookingTime": "17:18",
+      "numOfPeople": 2,
+      "requests": ""
+    },
+    {
+      "id": "dd60",
+      "name": "test book 2",
+      "email": "test.book2@mail.com",
+      "bookingDate": "2024-04-05",
+      "bookingTime": "18:20",
+      "numOfPeople": 32,
+      "requests": "awdasdasdasd"
+    }
+  ]
+}
